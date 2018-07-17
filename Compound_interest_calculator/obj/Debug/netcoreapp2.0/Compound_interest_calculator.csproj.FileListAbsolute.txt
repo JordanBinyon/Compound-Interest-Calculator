@@ -1,0 +1,11 @@
+c:\users\jorda\source\repos\Compound_interest_calculator\Compound_interest_calculator\bin\Debug\netcoreapp2.0\Compound_interest_calculator.deps.json
+c:\users\jorda\source\repos\Compound_interest_calculator\Compound_interest_calculator\bin\Debug\netcoreapp2.0\Compound_interest_calculator.runtimeconfig.json
+c:\users\jorda\source\repos\Compound_interest_calculator\Compound_interest_calculator\bin\Debug\netcoreapp2.0\Compound_interest_calculator.runtimeconfig.dev.json
+c:\users\jorda\source\repos\Compound_interest_calculator\Compound_interest_calculator\bin\Debug\netcoreapp2.0\Compound_interest_calculator.dll
+c:\users\jorda\source\repos\Compound_interest_calculator\Compound_interest_calculator\bin\Debug\netcoreapp2.0\Compound_interest_calculator.pdb
+c:\users\jorda\source\repos\Compound_interest_calculator\Compound_interest_calculator\obj\Debug\netcoreapp2.0\Compound_interest_calculator.csprojResolveAssemblyReference.cache
+c:\users\jorda\source\repos\Compound_interest_calculator\Compound_interest_calculator\obj\Debug\netcoreapp2.0\Compound_interest_calculator.csproj.CoreCompileInputs.cache
+c:\users\jorda\source\repos\Compound_interest_calculator\Compound_interest_calculator\obj\Debug\netcoreapp2.0\Compound_interest_calculator.AssemblyInfoInputs.cache
+c:\users\jorda\source\repos\Compound_interest_calculator\Compound_interest_calculator\obj\Debug\netcoreapp2.0\Compound_interest_calculator.AssemblyInfo.cs
+c:\users\jorda\source\repos\Compound_interest_calculator\Compound_interest_calculator\obj\Debug\netcoreapp2.0\Compound_interest_calculator.dll
+c:\users\jorda\source\repos\Compound_interest_calculator\Compound_interest_calculator\obj\Debug\netcoreapp2.0\Compound_interest_calculator.pdb
